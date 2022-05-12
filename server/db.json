@@ -1,0 +1,42 @@
+{
+  "guardians": [
+    {
+      "id": 1,
+      "username": "dalbitresb12",
+      "email": "diego.albitres@gmail.com",
+      "firstName": "Diego",
+      "lastName": "Albitres",
+      "gender": "male",
+      "address": "NASA"
+    },
+    {
+      "id": 2,
+      "username": "johndoe",
+      "email": "john.die@gmail.com",
+      "firstName": "John",
+      "lastName": "Doe",
+      "gender": "male",
+      "address": "Alguna parte de mundo"
+    }
+  ],
+  "urgencies": [
+    {
+      "id": 1,
+      "title": "Se murió Kolya",
+      "summary": "Se murió ps",
+      "latitude": 0,
+      "longitude": 0,
+      "reportedAt": "2022-05-11T23:00:44.795Z",
+      "guardianId": 1
+    },
+    {
+      "id": 2,
+      "title": "Se murió Ángel",
+      "summary": "Se murió ps",
+      "latitude": 10,
+      "longitude": 20,
+      "reportedAt": "2022-05-11T23:10:44.795Z",
+      "guardianId": 2
+    }
+  ]
+}
